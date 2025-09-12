@@ -32,10 +32,12 @@ To contribute:
 This project uses the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ### 📫 Support this project:
-- [BagiBagi](https://bagibagi.co/r3ndy)
-- [Saweria](https://saweria.co/r3ndy)
-- [Ko-fi](https://ko-fi.com/r3ndy)
-- [Trakteer](https://trakteer.id/r3ndy)
+<ul>
+  <li><a href="https://bagibagi.co/r3ndy" target="_blank">BagiBagi</a></li>
+  <li><a href="https://saweria.co/r3ndy" target="_blank">Saweria</a></li>
+  <li><a href="https://ko-fi.com/r3ndy" target="_blank">Ko-fi</a></li>
+  <li><a href="https://trakteer.id/r3ndy" target="_blank">Trakteer</a></li>
+</ul>
 
 Feel free to check out my repositories and contribute to open-source projects! 🚀
 
