@@ -1,44 +1,42 @@
 # WinTools
-Skrip untuk memperbaiki dan mengoptimalkan Windows
+Scripts to repair and optimize Windows.
 
 # Fixing Windows Via Scripts | Batch & PowerShell | Open Source
 
-## Overview
+# Hi, I'm R3ndy! 👋
 
-Proyek ini menyediakan skrip **Batch** dan **PowerShell** untuk memperbaiki masalah umum di Windows, seperti:
-- Menghapus file sementara
-- Memperbaiki file sistem rusak
-- Memperbaiki masalah jaringan
-- Mengoptimalkan kinerja sistem
-- Dll
+Welcome to my GitHub profile! I’m a developer working on various projects related to **Windows automation**, **scripting**, and **open-source tools**.
 
-Semua skrip bersifat **Open Source** dan bisa digunakan atau dimodifikasi sesuai kebutuhan.
+### 💻 Projects I’m Working On:
+- **[WinTools](https://github.com/r3ndycom/WinTools)**: A collection of Batch and PowerShell scripts for repairing and optimizing Windows.
+- **Other Projects**: I’m also working on other automation tools, troubleshooting scripts, and optimizing workflows.
 
-## Support this project
+### 🛠️ Technologies I Use:
+- **Batch Scripting**
+- **PowerShell**
+- **Windows Automation**
+- **Git, GitHub**
 
+ Contributing
+
+This project is **Open Source**, and we welcome contributions from anyone.
+
+To contribute:
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Submit a **Pull Request**.
+
+## License
+
+Proyek ini menggunakan **MIT License** - lihat [LICENSE](LICENSE) untuk detail.
+
+### 📫 Support this project:
 - [BagiBagi](https://bagibagi.co/r3ndy)
 - [Saweria](https://saweria.co/r3ndy)
 - [Ko-fi](https://ko-fi.com/r3ndy)
 - [Trakteer](https://trakteer.id/r3ndy)
 
-Thank you for your support! 🙏
+Feel free to check out my repositories and contribute to open-source projects! 🚀
 
-## Usage
-
-1. Menghapus file sementara yang memperlambat sistem.
-2. Memeriksa dan memperbaiki file sistem yang rusak.
-3. Dll.
-
-## Contributing
-
-Proyek ini bersifat **Open Source**, dan kami menerima kontribusi dari siapa saja.
-
-Untuk berkontribusi:
-1. Fork repositori.
-2. Buat branch baru.
-3. Lakukan perubahan dan commit.
-4. Kirimkan **Pull Request**.
-
-## License
-
-Proyek ini menggunakan **MIT License** - lihat [LICENSE](LICENSE) untuk detail.
+Thank you for visiting and for your support! 🙏
