@@ -29,7 +29,7 @@ To contribute:
 
 ## License
 
-Proyek ini menggunakan **MIT License** - lihat [LICENSE](LICENSE) untuk detail.
+This project uses the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ### 📫 Support this project:
 - [BagiBagi](https://bagibagi.co/r3ndy)
