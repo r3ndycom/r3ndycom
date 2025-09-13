@@ -1,42 +1,41 @@
 # WinTools
-Scripts to repair and optimize Windows.
+Script untuk memperbaiki dan mengoptimalkan Windows.
 
-# Fixing Windows Via Scripts | Batch & PowerShell | Open Source
+# Memperbaiki Windows dengan Script | Batch & PowerShell | Open Source
 
-# Hi, I'm R3ndy! 👋
+# Halo, saya R3ndy! 👋
 
-Welcome to my GitHub profile! I’m a developer working on various projects related to **Windows automation**, **scripting**, and **open-source tools**.
+Selamat datang di profil GitHub saya! Saya seorang pengembang yang mengerjakan berbagai proyek terkait **otomatisasi Windows**, **scripting**, dan **alat open-source**.
 
-### 💻 Projects I’m Working On:
-- A collection of Batch and PowerShell scripts for repairing and optimizing Windows.
-- **Other Projects**: I’m also working on other automation tools, troubleshooting scripts, and optimizing workflows.
+### 💻 Proyek yang Sedang Saya Kerjakan:
+- Koleksi script Batch dan PowerShell untuk memperbaiki dan mengoptimalkan Windows.
+- **Proyek Lainnya**: Saya juga mengerjakan alat otomatisasi lain, script troubleshooting, dan optimasi workflow.
 
-### 🛠️ Technologies I Use:
+### 🛠️ Teknologi yang Saya Gunakan:
 - **Batch Scripting**
 - **PowerShell**
-- **Windows Automation**
+- **Otomatisasi Windows**
 - **Git, GitHub**
 
- Contributing
+### Kontribusi
+Proyek ini bersifat **Open Source**, dan kami menyambut kontribusi dari siapa saja.
 
-This project is **Open Source**, and we welcome contributions from anyone.
+Cara berkontribusi:
+1. Fork repository ini.
+2. Buat branch baru.
+3. Lakukan perubahan dan commit.
+4. Kirim **Pull Request**.
 
-To contribute:
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Submit a **Pull Request**.
+## Lisensi
 
-## License
+Proyek ini menggunakan **MIT License** - lihat file [LICENSE](LICENSE) untuk detail.
 
-This project uses the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### 📫 Support this project:
+### 📫 Dukung proyek ini:
 - [BagiBagi](https://bagibagi.co/r3ndy)
 - [Saweria](https://saweria.co/r3ndy)
 - [Ko-fi](https://ko-fi.com/r3ndy)
 - [Trakteer](https://trakteer.id/r3ndy)
 
-Feel free to check out my repositories and contribute to open-source projects! 🚀
+Silakan cek repositori saya dan berkontribusi pada proyek open-source! 🚀
 
-Thank you for visiting and for your support! 🙏
+Terima kasih sudah berkunjung dan atas dukungannya! 🙏
