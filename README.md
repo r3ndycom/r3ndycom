@@ -8,7 +8,7 @@ Scripts to repair and optimize Windows.
 Welcome to my GitHub profile! I’m a developer working on various projects related to **Windows automation**, **scripting**, and **open-source tools**.
 
 ### 💻 Projects I’m Working On:
-- **[WinTools](https://github.com/r3ndycom/WinTools)**: A collection of Batch and PowerShell scripts for repairing and optimizing Windows.
+- **A collection of Batch and PowerShell scripts for repairing and optimizing Windows.
 - **Other Projects**: I’m also working on other automation tools, troubleshooting scripts, and optimizing workflows.
 
 ### 🛠️ Technologies I Use:
